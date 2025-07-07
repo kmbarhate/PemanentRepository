@@ -1,5 +1,5 @@
 package com.kiran.properties.demo;
-//Reading propeties file from our  computer.
+//Reading propeties file from our  computer  or hard drive.
 import java.io.FileInputStream;
 
 import java.io.IOException;
