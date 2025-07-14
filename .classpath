@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="librarey/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="librarey/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/byte-buddy-1.17.5.jar"/>
+	<classpathentry kind="lib" path="librarey/byte-buddy-1.17.5-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="librarey/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/error_prone_annotations-2.38.0.jar"/>
+	<classpathentry kind="lib" path="librarey/error_prone_annotations-2.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="librarey/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/guava-33.4.8-jre.jar"/>
+	<classpathentry kind="lib" path="librarey/guava-33.4.8-jre-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="librarey/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="librarey/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-api-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-api-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-context-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-context-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-exporter-logging-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-exporter-logging-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-common-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-common-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-extension-autoconfigure-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-extension-autoconfigure-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-extension-autoconfigure-spi-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-extension-autoconfigure-spi-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-logs-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-logs-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-metrics-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-metrics-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-trace-1.49.0.jar"/>
+	<classpathentry kind="lib" path="librarey/opentelemetry-sdk-trace-1.49.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-api-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-api-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-chrome-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-chrome-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-chromium-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-chromium-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-devtools-v134-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-devtools-v134-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-devtools-v135-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-devtools-v135-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-devtools-v136-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-devtools-v136-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-edge-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-edge-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-firefox-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-firefox-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-http-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-http-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-ie-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-ie-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-java-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-java-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-json-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-json-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-manager-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-manager-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-os-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-os-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-remote-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-remote-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-safari-driver-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-safari-driver-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-support-4.32.0.jar"/>
+	<classpathentry kind="lib" path="librarey/selenium-support-4.32.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Laptop/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.16.0/selenium-chrome-driver-4.16.0.jar" sourcepath="C:/Users/Laptop/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.16.0/selenium-chrome-driver-4.16.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.16.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Laptop/.m2/repository/org/seleniumhq/selenium/selenium-api/4.16.0/selenium-api-4.16.0.jar" sourcepath="C:/Users/Laptop/.m2/repository/org/seleniumhq/selenium/selenium-api/4.16.0/selenium-api-4.16.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.16.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Laptop/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.16.0/selenium-firefox-driver-4.16.0.jar" sourcepath="C:/Users/Laptop/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.16.0/selenium-firefox-driver-4.16.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-firefox-driver"/>
+			<attribute name="maven.version" value="4.16.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="librarey/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="librarey/testng-7.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
